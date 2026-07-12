@@ -70,7 +70,7 @@ Grok Register 是一个面向自动化流程研究、测试环境验证和个人
 下载项目到电脑：
 
 ```bash
-git clone https://github.com/AaronL725/grok-register.git
+git clone https://github.com/maxucheng0/grok-register.git
 cd grok-register
 ```
 

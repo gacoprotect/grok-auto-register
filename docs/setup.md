@@ -73,7 +73,12 @@ Ada `xai-....json` = CPA mint sukses.
 
 ## 6. Masukin ke 9router
 
-Lihat [9router.md](9router.md).
+```bash
+python scripts/inject_cpa_to_9router.py
+```
+
+Muncul **menu TUI** (ganti path CPA / DB, dry-run, inject).  
+Detail: [9router.md](9router.md).
 
 ## Tips laptop
 

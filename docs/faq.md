@@ -25,6 +25,15 @@ Biasa. Refresh/retry. Kadang halaman x.ai aneh sesaat. Lihat log, lanjut batch.
 
 xAI lagi nahan device auth. Tunggu / batch lebih pelan. Kadang tetap sukses setelah retry di log.
 
+## Injector TUI di Windows?
+
+```powershell
+python scripts\inject_cpa_to_9router.py
+```
+
+Menu sama. Path DB default sering di `%USERPROFILE%\.9router\db\data.sqlite` atau `%APPDATA%\9router\...`.  
+Bisa pilih menu **Deteksi DB otomatis**.
+
 ## Inject VPS error `unrecognized arguments`?
 
 Jangan ada spasi setelah `\` di bash.  
